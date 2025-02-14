@@ -1,0 +1,45 @@
+{
+    "students" : [
+    {
+        "name" : "Moazzem Hossain",
+        "middlename" : null,
+        "age" : 26,
+        "cgpa" : 3.63,
+        "isRegistered" : true,
+        "language" : ["Bengali", "English"],
+        "friends" : [
+        {
+            "name": "Moazz",
+            "age" : 25
+        },
+        
+        {
+            "name": "Arif",
+            "age" : 26
+        }
+    
+        ]
+    },
+    
+    {
+        "name" : "Arif Hossain",
+        "middlename" : null,
+        "age" : 27,
+        "cgpa" : 3.53,
+        "isRegistered" : false,
+        "language" : ["Bengali", "English", "Hindi"],
+        "friends" : [
+        {
+            "name": "Rakib",
+            "age" : 24
+        },
+        
+        {
+            "name": "Sakib",
+            "age" : 25
+        }
+    
+        ]
+    }
+]
+}
