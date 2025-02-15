@@ -12,5 +12,15 @@ const data = require("./friends_data.json");
 
 
 //Data Modify
-delete data.friends[0].name;
-console.log(data);
+//delete data.friends[0].name;
+//console.log(data);
+
+
+//use loop
+//for(x in data){
+    //console.log(x);
+   // console.log(data[x]);
+//}
+
+
+//  console.log(JSON.parse('{"name": "zem"}'));

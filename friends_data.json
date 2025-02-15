@@ -9,5 +9,16 @@
         "name": "Arif",
         "age" : 26
     }
+],
+"students" : [
+    {
+        "name": "Moazz2",
+        "age" : 25
+    },
+    
+    {
+        "name": "Arif2",
+        "age" : 26
+    }
 ]
 }
